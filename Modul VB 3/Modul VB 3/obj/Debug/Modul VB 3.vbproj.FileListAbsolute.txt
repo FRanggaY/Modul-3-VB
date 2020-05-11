@@ -1,0 +1,21 @@
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul VB 3.vbprojAssemblyReference.cache
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form1.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form2.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Resources.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul VB 3.vbproj.GenerateResource.cache
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\bin\Debug\Modul VB 3.exe.config
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\bin\Debug\Modul VB 3.exe
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\bin\Debug\Modul VB 3.pdb
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\bin\Debug\Modul VB 3.xml
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul VB 3.exe
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul VB 3.xml
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul VB 3.pdb
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form3.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form4.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form5.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form6.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form7.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form8.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form9.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form10.resources
+D:\Documents\MODUL\Produktif\Pemrograman Dasar\VB\Modul VB 3\Modul VB 3\obj\Debug\Modul_VB_3.Form11.resources
